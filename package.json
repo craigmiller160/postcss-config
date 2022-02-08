@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/postcss-config",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "main": "postcss.config.js",
   "author": "craigmiller160",
   "publishConfig": {
